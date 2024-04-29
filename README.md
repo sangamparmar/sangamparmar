@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sangam Parmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangamparmar&label=Profile%20views&color=0e75b6&style=flat" alt="sangamparmar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangamparmar" alt="sangamparmar" /></a> </p>
