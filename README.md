@@ -60,11 +60,11 @@
 </p>
 
 <h3 align="left">Favorite Repositories:</h3>
-<ul>
-  <li><a href="https://github.com/sangamparmar/receipeHub">ReceipeHub</a></li>
-  <li><a href="https://github.com/sangamparmar/your-other-repo">Your Other Repo</a></li>
-  <!-- Add more favorite repositories here -->
-</ul>
+<p align="center">
+    <a href="https://github.com/sangamparmar/HostelHub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=HostelHub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="HostelHub"></a>
+    <a href="https://github.com/sangamparmar/inotebook"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=inotebook&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="inotebook"></a>
+    <a href="https://github.com/sangamparmar/Sorting-Algo-visualizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=Sorting-Algo-visualizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Sorting-Algo-visualizer"></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamparmar&show_icons=true&locale=en&layout=compact" alt="sangamparmar" /></p>
 
