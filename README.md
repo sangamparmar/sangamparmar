@@ -61,7 +61,7 @@
 
 <h3 align="left">Favorite Repositories:</h3>
 <p align="center">
-    <a href="https://github.com/sangamparmar/HostelHub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=HostelHub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="HostelHub"></a>
+    <a href="https://github.com/sangamparmar/HostelMate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=HostelMate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="HostelMate"></a>
     <a href="https://github.com/sangamparmar/inotebook"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=inotebook&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="inotebook"></a>
     <a href="https://github.com/sangamparmar/Sorting-Algo-visualizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=Sorting-Algo-visualizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Sorting-Algo-visualizer"></a>
 </p>
