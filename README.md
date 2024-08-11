@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [ReceipeHub](https://recipehub.freewebhostmost.com/)
 
-- 🌱 I’m currently learning **Java, C++**
+- 🌱 I’m currently learning **Java, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sangamparmar](https://github.com/sangamparmar)
 
