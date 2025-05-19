@@ -73,4 +73,18 @@
   <a href="https://github.com/sangamparmar/CodeNest">
     <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=CodeNest&theme=tokyonight" />
   </a>
+  <a href="https://github.com/sangamparmar/CraftMyCv">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=CraftMyCv&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 💡 Wrapping Up
+
+✨ I'm passionate about crafting impactful software solutions and turning ideas into reality. Whether it's building scalable web apps or solving tricky algorithms — I thrive on challenges.  
+🔥 Let’s connect and build something awesome together!
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Keep%20Coding!;Keep%20Learning!;Never%20Stop%20Building!&font=Fira+Code&center=true&width=380&height=45&color=66ccff&vCenter=true&pause=1000&size=20" />
 </p>
