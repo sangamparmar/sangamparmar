@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=SANGAM+PARMAR;FULL-STACK+WIZARD;CODE+ARCHITECT;DIGITAL+INNOVATOR" alt="Name Animation" />
 </div>
 
-<div style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=60&lines=🚀+Building+Tomorrow's+Technology+Today;⚡+Transforming+Ideas+Into+Digital+Reality;🌟+Crafting+Code+That+Changes+The+World" alt="Subtitle Animation" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -128,14 +124,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
-## 🎮 CONTRIBUTION GAME 🎮
-
-<div align="center">
-  <img src="https://github.com/sangamparmar/sangamparmar/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
-
 ## 🌟 PERFORMANCE METRICS 🌟
 
 <div align="center">
@@ -184,10 +172,6 @@
 </table>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+realm!+🚀;Let's+collaborate+and+create+magic!+✨;The+future+is+what+we+code+today!+💫;Ready+to+change+the+world%3F+Let's+go!+🔥" alt="Closing Message"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=150&section=footer&reversal=true"/>
 
