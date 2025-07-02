@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=&fontSize=0&desc=&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=250&section=header&text=&fontSize=0"/>
 
-<div style="position: relative; margin-top: -200px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=SANGAM+PARMAR;FULL-STACK+WIZARD;CODE+ARCHITECT;DIGITAL+INNOVATOR" alt="Name Animation" />
+<div style="position: relative; margin-top: -150px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=SANGAM+PARMAR;FULL-STACK+WIZARD;CODE+ARCHITECT;DIGITAL+INNOVATOR" alt="Name Animation" />
 </div>
 
-<div style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+Tomorrow's+Technology+Today;⚡+Transforming+Ideas+Into+Digital+Reality;🌟+Crafting+Code+That+Changes+The+World" alt="Subtitle Animation" />
+<div style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=60&lines=🚀+Building+Tomorrow's+Technology+Today;⚡+Transforming+Ideas+Into+Digital+Reality;🌟+Crafting+Code+That+Changes+The+World" alt="Subtitle Animation" />
 </div>
 
 <br/>
@@ -20,52 +20,51 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 🏆 HALL OF FAME 🏆
 
 <div align="center">
-  <img width="87%" src="https://github-profile-trophy.vercel.app/?username=sangamparmar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img width="85%" src="https://github-profile-trophy.vercel.app/?username=sangamparmar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 🌟 SYSTEM STATUS 🌟
 
+<table align="center">
+<tr>
+<td width="50%">
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    🧠 NEURAL NETWORK ONLINE                 ║
-║══════════════════════════════════════════════════════════════║
-║  💻 Coding Mode:           [████████████████████] 100%      ║
-║  ☕ Coffee Level:          [████████████████████] 100%      ║
-║  🚀 Motivation:            [████████████████████] 100%      ║
-║  🔥 Passion:               [████████████████████] ∞         ║
-║  🎯 Focus:                 [████████████████████] 100%      ║
-║══════════════════════════════════════════════════════════════║
-║  Status: Ready to build the next big thing! 🚀              ║
-╚══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════╗
+║        🧠 NEURAL NETWORK          ║
+║═══════════════════════════════════║
+║ 💻 Coding:     ████████████ 100% ║
+║ ☕ Coffee:     ████████████ 100% ║
+║ 🚀 Motivation: ████████████ 100% ║
+║ 🔥 Passion:    ████████████  ∞   ║
+║═══════════════════════════════════║
+║ Status: Ready to build! 🚀        ║
+╚═══════════════════════════════════╝
 ```
 
-</div>
+</td>
+<td width="50%">
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" align="right">
-
-## 🎯 MISSION BRIEFING
-
-- 🔭 **CURRENT PROJECT:** [CodeNest](https://eliteapp.tech/) - Revolutionary Developer Platform
-- 🌱 **LEARNING PATH:** Advanced Java Architecture & MERN Stack Mastery  
-- 💡 **PASSION:** Turning caffeine into code and ideas into reality
+### 🎯 MISSION BRIEFING
+- 🔭 **PROJECT:** [CodeNest](https://eliteapp.tech/)
+- 🌱 **LEARNING:** Java & MERN Stack
+- 💡 **PASSION:** Code + Coffee = Magic
 - 📧 **CONTACT:** sangamparmar94@gmail.com
-- ⚡ **LIFE MOTTO:** *"Debug the world, one line at a time"*
-- 🎮 **FUN FACT:** I speak fluent JavaScript and broken English
+- ⚡ **MOTTO:** *"Debug the world!"*
+- 🎮 **FACT:** I speak fluent JavaScript
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 🌐 CONNECT WITH THE MATRIX 🌐
 
@@ -82,13 +81,19 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
 </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## ⚡ TECH ARSENAL ⚡
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,python,java,cpp,c,html,css,bootstrap,sass,angular,redux,spring,mysql,aws,heroku,git,github,linux,figma,xd,postman&theme=dark&perline=13" alt="Tech Stack"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,python,java,cpp,c&theme=dark" alt="Row 1"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,angular,redux,spring,mysql,aws,heroku&theme=dark" alt="Row 2"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,xd,postman,docker,vscode,npm,yarn&theme=dark" alt="Row 3"/>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a1d4-6ea0c5e5b8e8.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 📊 BATTLE STATISTICS 📊
 
@@ -102,7 +107,7 @@
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sangamparmar&theme=redical&hide_border=true&bg_color=0d1117&color=4ecdc4&line=ff6b6b&point=ffffff&border_radius=10"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 🎯 LEGENDARY PROJECTS 🎯
 
@@ -121,7 +126,7 @@
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 🎮 CONTRIBUTION GAME 🎮
 
@@ -129,7 +134,7 @@
   <img src="https://github.com/sangamparmar/sangamparmar/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284152-8b5e2e3c-9c3e-4b7a-8b0e-0b0d0b0d0b0d.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 🌟 PERFORMANCE METRICS 🌟
 
@@ -147,7 +152,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sangamparmar&theme=radical&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284175-acc7d32c-c6f4-4bde-a898-1b58a57ab0a4.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 💭 WISDOM OF THE DAY 💭
 
@@ -155,27 +160,36 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 🚀 FINAL TRANSMISSION 🚀
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  🌟 MISSION STATEMENT: Code with passion, innovate with purpose   ║
-║  🎯 OBJECTIVE: Building solutions that matter                     ║
-║  ⚡ STATUS: Always ready for the next adventure                   ║
-║  🔥 BELIEF: "Great code is written by humans, for humans"         ║
-║  🚀 GOAL: Making the impossible, possible                         ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  <br/><b>Always Learning</b>
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
+  <br/><b>Problem Solving</b>
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"/>
+  <br/><b>Building Future</b>
+</td>
+</tr>
+</table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+digital+realm!+🚀;Let's+collaborate+and+create+magic!+✨;The+future+is+what+we+code+today!+💫;Keep+pushing+boundaries!+🌟;Ready+to+change+the+world%3F+Let's+go!+🔥" alt="Closing Message"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+realm!+🚀;Let's+collaborate+and+create+magic!+✨;The+future+is+what+we+code+today!+💫;Ready+to+change+the+world%3F+Let's+go!+🔥" alt="Closing Message"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=footer&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=150&section=footer&reversal=true"/>
 
 ---
 
