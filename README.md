@@ -1,145 +1,54 @@
 <div align="center">
-  
-  <!-- Animated Header Background -->
-  <div style="
-    background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 25%, #2d1b69 50%, #0f172a 100%);
-    background-size: 400% 400%;
-    animation: gradientShift 8s ease infinite;
-    padding: 60px 20px;
-    border-radius: 20px;
-    margin-bottom: 40px;
-    position: relative;
-    overflow: hidden;
-  ">
-    <!-- Animated particles background -->
-    <div style="
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      opacity: 0.3;
-    ">
-      <div style="
-        position: absolute;
-        width: 400px;
-        height: 400px;
-        background: radial-gradient(circle, #00d9ff 0%, transparent 70%);
-        border-radius: 50%;
-        top: -50%;
-        left: -10%;
-        animation: float 20s ease-in-out infinite;
-        filter: blur(40px);
-      "></div>
-      <div style="
-        position: absolute;
-        width: 300px;
-        height: 300px;
-        background: radial-gradient(circle, #ff006e 0%, transparent 70%);
-        border-radius: 50%;
-        bottom: -30%;
-        right: 10%;
-        animation: float 25s ease-in-out infinite 2s;
-        filter: blur(40px);
-      "></div>
-    </div>
 
-    <!-- Main heading -->
-    <div style="position: relative; z-index: 10;">
-      <h1 style="
-        margin: 0;
-        font-size: 3.5rem;
-        font-weight: 800;
-        background: linear-gradient(90deg, #00d9ff 0%, #0099ff 25%, #ff006e 50%, #00d9ff 100%);
-        background-size: 200% auto;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
-        animation: gradientFlow 4s linear infinite;
-        letter-spacing: -2px;
-        text-shadow: 0 0 30px rgba(0, 217, 255, 0.3);
-        line-height: 1.2;
-      ">
-        Sangam Parmar
-      </h1>
-      <p style="
-        font-size: 1.3rem;
-        color: #00d9ff;
-        margin: 15px 0 0 0;
-        font-weight: 600;
-        letter-spacing: 2px;
-        text-transform: uppercase;
-        animation: pulse 2s ease-in-out infinite;
-      ">
-        Full Stack Developer | Problem Solver
-      </p>
-      
-      <!-- Subtitle with glassmorphism -->
-      <div style="
-        background: rgba(15, 23, 42, 0.5);
-        backdrop-filter: blur(10px);
-        border: 1px solid rgba(0, 217, 255, 0.2);
-        border-radius: 50px;
-        padding: 15px 30px;
-        margin-top: 25px;
-        width: fit-content;
-        margin-left: auto;
-        margin-right: auto;
-        transition: all 0.3s ease;
-      " onmouseover="this.style.background='rgba(15, 23, 42, 0.8)'; this.style.borderColor='rgba(0, 217, 255, 0.5)';" onmouseout="this.style.background='rgba(15, 23, 42, 0.5)'; this.style.borderColor='rgba(0, 217, 255, 0.2)';">
-        <span style="color: #00d9ff; font-weight: 600;">🚀 Building the Future with Code & Coffee</span>
-      </div>
-    </div>
-  </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=250&section=header&text=&fontSize=0"/>
 
-  <!-- Quick Stats Banner -->
-  <div style="
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 15px;
-    margin-bottom: 50px;
-    padding: 0 20px;
-  ">
-    <div style="
-      background: linear-gradient(135deg, #1e3a5f 0%, #2d1b69 100%);
-      padding: 20px;
-      border-radius: 12px;
-      border: 1px solid rgba(0, 217, 255, 0.3);
-      text-align: center;
-      transition: all 0.3s ease;
-    " onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 30px rgba(0, 217, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-      <div style="font-size: 2rem; color: #00d9ff; font-weight: bold; margin-bottom: 5px;">100+</div>
-      <div style="color: #94a3b8; font-size: 0.9rem;">Projects</div>
-    </div>
-    <div style="
-      background: linear-gradient(135deg, #1e3a5f 0%, #2d1b69 100%);
-      padding: 20px;
-      border-radius: 12px;
-      border: 1px solid rgba(255, 0, 110, 0.3);
-      text-align: center;
-      transition: all 0.3s ease;
-    " onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 30px rgba(255, 0, 110, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-      <div style="font-size: 2rem; color: #ff006e; font-weight: bold; margin-bottom: 5px;">5+</div>
-      <div style="color: #94a3b8; font-size: 0.9rem;">Years XP</div>
-    </div>
-    <div style="
-      background: linear-gradient(135deg, #1e3a5f 0%, #2d1b69 100%);
-      padding: 20px;
-      border-radius: 12px;
-      border: 1px solid rgba(0, 217, 255, 0.3);
-      text-align: center;
-      transition: all 0.3s ease;
-    " onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 30px rgba(0, 217, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-      <div style="font-size: 2rem; color: #00d9ff; font-weight: bold; margin-bottom: 5px;">30K+</div>
-      <div style="color: #94a3b8; font-size: 0.9rem;">Followers</div>
-    </div>
-  </div>
-
+<div style="position: relative; margin-top: -150px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=SANGAM+PARMAR;FULL-STACK+WIZARD;CODE+ARCHITECT;DIGITAL+INNOVATOR" alt="Name Animation" />
 </div>
 
----
+<br/>
 
-## 🎯 MISSION BRIEFING
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sangamparmar&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/sangamparmar?label=FOLLOWERS&style=for-the-badge&color=4ECDC4&labelColor=1a1a1a" alt="Followers"/>
+  <img src="https://img.shields.io/badge/STATUS-READY+TO+ROCK-00ff41?style=for-the-badge&labelColor=1a1a1a&logo=rocket" alt="Status"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
+
+## 🏆 HALL OF FAME 🏆
+
+<div align="center">
+  <img width="85%" src="https://github-profile-trophy.vercel.app/?username=sangamparmar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
+
+## 🌟 SYSTEM STATUS 🌟
+
+<table align="center">
+<tr>
+<td width="50%">
+
+```
+╔═══════════════════════════════════╗
+║        🧠 NEURAL NETWORK          ║
+║═══════════════════════════════════║
+║ 💻 Coding:     ████████████ 100% ║
+║ ☕ Coffee:     ████████████ 100% ║
+║ 🚀 Motivation: ████████████ 100% ║
+║ 🔥 Passion:    ████████████  ∞   ║
+║═══════════════════════════════════║
+║ Status: Ready to build! 🚀        ║
+╚═══════════════════════════════════╝
+```
+
+</td>
+<td width="50%">
+
+### 🎯 MISSION BRIEFING
 - 🔭 **PROJECT:** [CodeNest](https://eliteapp.tech/)
 - 🌱 **LEARNING:** Java & MERN Stack
 - 💡 **PASSION:** Code + Coffee = Magic
@@ -147,331 +56,131 @@
 - ⚡ **MOTTO:** *"Debug the world!"*
 - 🎮 **FACT:** I speak fluent JavaScript
 
----
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 🌐 CONNECT WITH THE MATRIX 🌐
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin: 30px 0;">
-  <a href="https://github.com" style="
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 12px 20px;
-    background: linear-gradient(135deg, #00d9ff, #0099ff);
-    color: white;
-    border-radius: 50px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: all 0.3s ease;
-    border: 2px solid transparent;
-  " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 25px rgba(0, 217, 255, 0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    GitHub
-  </a>
-  <a href="https://linkedin.com" style="
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 12px 20px;
-    background: linear-gradient(135deg, #0099ff, #ff006e);
-    color: white;
-    border-radius: 50px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: all 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 25px rgba(255, 0, 110, 0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    LinkedIn
-  </a>
-  <a href="mailto:sangamparmar94@gmail.com" style="
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 12px 20px;
-    background: linear-gradient(135deg, #ff006e, #00d9ff);
-    color: white;
-    border-radius: 50px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: all 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 25px rgba(0, 217, 255, 0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    Email
-  </a>
-  <a href="https://twitter.com" style="
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 12px 20px;
-    background: linear-gradient(135deg, #00d9ff, #ff006e);
-    color: white;
-    border-radius: 50px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: all 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 25px rgba(0, 217, 255, 0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    Twitter
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/sangam-parmar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/ft.sangamm">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
+</a>
+<a href="https://github.com/sangamparmar">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+</a>
+<a href="mailto:sangamparmar94@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+</a>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## ⚡ TECH ARSENAL ⚡
 
-<div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-  gap: 15px;
-  margin: 30px 0;
-  padding: 0 20px;
-">
-  <div style="
-    background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(0, 153, 255, 0.1));
-    padding: 15px;
-    border-radius: 10px;
-    border: 1px solid rgba(0, 217, 255, 0.3);
-    text-align: center;
-    font-weight: 600;
-    color: #00d9ff;
-    transition: all 0.3s ease;
-  " onmouseover="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.2), rgba(0, 153, 255, 0.2))'; this.style.transform='scale(1.05)';" onmouseout="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(0, 153, 255, 0.1))'; this.style.transform='scale(1)';">
-    JavaScript
-  </div>
-  <div style="
-    background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(0, 153, 255, 0.1));
-    padding: 15px;
-    border-radius: 10px;
-    border: 1px solid rgba(0, 217, 255, 0.3);
-    text-align: center;
-    font-weight: 600;
-    color: #00d9ff;
-    transition: all 0.3s ease;
-  " onmouseover="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.2), rgba(0, 153, 255, 0.2))'; this.style.transform='scale(1.05)';" onmouseout="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(0, 153, 255, 0.1))'; this.style.transform='scale(1)';">
-    React
-  </div>
-  <div style="
-    background: linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(255, 100, 150, 0.1));
-    padding: 15px;
-    border-radius: 10px;
-    border: 1px solid rgba(255, 0, 110, 0.3);
-    text-align: center;
-    font-weight: 600;
-    color: #ff006e;
-    transition: all 0.3s ease;
-  " onmouseover="this.style.background='linear-gradient(135deg, rgba(255, 0, 110, 0.2), rgba(255, 100, 150, 0.2))'; this.style.transform='scale(1.05)';" onmouseout="this.style.background='linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(255, 100, 150, 0.1))'; this.style.transform='scale(1)';">
-    Node.js
-  </div>
-  <div style="
-    background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(0, 153, 255, 0.1));
-    padding: 15px;
-    border-radius: 10px;
-    border: 1px solid rgba(0, 217, 255, 0.3);
-    text-align: center;
-    font-weight: 600;
-    color: #00d9ff;
-    transition: all 0.3s ease;
-  " onmouseover="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.2), rgba(0, 153, 255, 0.2))'; this.style.transform='scale(1.05)';" onmouseout="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(0, 153, 255, 0.1))'; this.style.transform='scale(1)';">
-    TypeScript
-  </div>
-  <div style="
-    background: linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(255, 100, 150, 0.1));
-    padding: 15px;
-    border-radius: 10px;
-    border: 1px solid rgba(255, 0, 110, 0.3);
-    text-align: center;
-    font-weight: 600;
-    color: #ff006e;
-    transition: all 0.3s ease;
-  " onmouseover="this.style.background='linear-gradient(135deg, rgba(255, 0, 110, 0.2), rgba(255, 100, 150, 0.2))'; this.style.transform='scale(1.05)';" onmouseout="this.style.background='linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(255, 100, 150, 0.1))'; this.style.transform='scale(1)';">
-    MongoDB
-  </div>
-  <div style="
-    background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(0, 153, 255, 0.1));
-    padding: 15px;
-    border-radius: 10px;
-    border: 1px solid rgba(0, 217, 255, 0.3);
-    text-align: center;
-    font-weight: 600;
-    color: #00d9ff;
-    transition: all 0.3s ease;
-  " onmouseover="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.2), rgba(0, 153, 255, 0.2))'; this.style.transform='scale(1.05)';" onmouseout="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(0, 153, 255, 0.1))'; this.style.transform='scale(1)';">
-    Express
-  </div>
-  <div style="
-    background: linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(255, 100, 150, 0.1));
-    padding: 15px;
-    border-radius: 10px;
-    border: 1px solid rgba(255, 0, 110, 0.3);
-    text-align: center;
-    font-weight: 600;
-    color: #ff006e;
-    transition: all 0.3s ease;
-  " onmouseover="this.style.background='linear-gradient(135deg, rgba(255, 0, 110, 0.2), rgba(255, 100, 150, 0.2))'; this.style.transform='scale(1.05)';" onmouseout="this.style.background='linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(255, 100, 150, 0.1))'; this.style.transform='scale(1)';">
-    Docker
-  </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,python,java,cpp,c&theme=dark" alt="Row 1"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,angular,redux,spring,mysql,aws,heroku&theme=dark" alt="Row 2"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,xd,postman,docker,vscode,npm,yarn&theme=dark" alt="Row 3"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 📊 BATTLE STATISTICS 📊
 
-<div style="text-align: center; margin: 40px 0; padding: 0 20px;">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangamparmar&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangamparmar&theme=tokyonight&hide_border=true&layout=compact)
-
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangamparmar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff&border_radius=10"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sangamparmar&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakLabel=4ecdc4&border_radius=10"/>
 </div>
 
----
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamparmar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&border_radius=10"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sangamparmar&theme=redical&hide_border=true&bg_color=0d1117&color=4ecdc4&line=ff6b6b&point=ffffff&border_radius=10"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 🎯 LEGENDARY PROJECTS 🎯
 
-<div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 25px;
-  margin: 30px 0;
-  padding: 0 20px;
-">
-  <div style="
-    background: linear-gradient(135deg, rgba(0, 217, 255, 0.05), rgba(0, 153, 255, 0.05));
-    border: 1px solid rgba(0, 217, 255, 0.2);
-    border-radius: 12px;
-    padding: 25px;
-    transition: all 0.3s ease;
-    cursor: pointer;
-  " onmouseover="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(0, 153, 255, 0.1))'; this.style.transform='translateY(-8px)'; this.style.boxShadow='0 15px 40px rgba(0, 217, 255, 0.2)';" onmouseout="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.05), rgba(0, 153, 255, 0.05))'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <h3 style="color: #00d9ff; margin: 0 0 10px 0; font-size: 1.3rem;">CodeNest</h3>
-    <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0 0 15px 0;">A collaborative platform for developers to share and discover code snippets with AI-powered recommendations.</p>
-    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-      <span style="background: rgba(0, 217, 255, 0.2); color: #00d9ff; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">React</span>
-      <span style="background: rgba(255, 0, 110, 0.2); color: #ff006e; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">Node.js</span>
-      <span style="background: rgba(0, 217, 255, 0.2); color: #00d9ff; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">MongoDB</span>
-    </div>
-  </div>
-
-  <div style="
-    background: linear-gradient(135deg, rgba(255, 0, 110, 0.05), rgba(255, 100, 150, 0.05));
-    border: 1px solid rgba(255, 0, 110, 0.2);
-    border-radius: 12px;
-    padding: 25px;
-    transition: all 0.3s ease;
-    cursor: pointer;
-  " onmouseover="this.style.background='linear-gradient(135deg, rgba(255, 0, 110, 0.1), rgba(255, 100, 150, 0.1))'; this.style.transform='translateY(-8px)'; this.style.boxShadow='0 15px 40px rgba(255, 0, 110, 0.2)';" onmouseout="this.style.background='linear-gradient(135deg, rgba(255, 0, 110, 0.05), rgba(255, 100, 150, 0.05))'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <h3 style="color: #ff006e; margin: 0 0 10px 0; font-size: 1.3rem;">DevSync</h3>
-    <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0 0 15px 0;">Real-time collaborative code editor with live preview and team communication built-in.</p>
-    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-      <span style="background: rgba(0, 217, 255, 0.2); color: #00d9ff; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">Vue.js</span>
-      <span style="background: rgba(255, 0, 110, 0.2); color: #ff006e; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">WebSocket</span>
-      <span style="background: rgba(0, 217, 255, 0.2); color: #00d9ff; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">PostgreSQL</span>
-    </div>
-  </div>
-
-  <div style="
-    background: linear-gradient(135deg, rgba(0, 217, 255, 0.05), rgba(0, 153, 255, 0.05));
-    border: 1px solid rgba(0, 217, 255, 0.2);
-    border-radius: 12px;
-    padding: 25px;
-    transition: all 0.3s ease;
-    cursor: pointer;
-  " onmouseover="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(0, 153, 255, 0.1))'; this.style.transform='translateY(-8px)'; this.style.boxShadow='0 15px 40px rgba(0, 217, 255, 0.2)';" onmouseout="this.style.background='linear-gradient(135deg, rgba(0, 217, 255, 0.05), rgba(0, 153, 255, 0.05))'; this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <h3 style="color: #00d9ff; margin: 0 0 10px 0; font-size: 1.3rem;">AI Dashboard</h3>
-    <p style="color: #cbd5e1; font-size: 0.9rem; margin: 0 0 15px 0;">Advanced analytics dashboard with AI-powered insights and predictive analytics visualization.</p>
-    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-      <span style="background: rgba(255, 0, 110, 0.2); color: #ff006e; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">Python</span>
-      <span style="background: rgba(0, 217, 255, 0.2); color: #00d9ff; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">TensorFlow</span>
-      <span style="background: rgba(255, 0, 110, 0.2); color: #ff006e; padding: 4px 10px; border-radius: 20px; font-size: 0.8rem;">D3.js</span>
-    </div>
-  </div>
+<div align="center">
+  <a href="https://github.com/sangamparmar/HostelMate">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=HostelMate&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=4ecdc4&border_radius=10"/>
+  </a>
+  <a href="https://github.com/sangamparmar/CodeNest">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=CodeNest&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=4ecdc4&border_radius=10"/>
+  </a>
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/sangamparmar/CraftMyCv">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sangamparmar&repo=CraftMyCv&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&icon_color=4ecdc4&border_radius=10"/>
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 🌟 PERFORMANCE METRICS 🌟
 
-\`\`\`
-╔══════════════════════════════════════════════════════════════╗
-║                    ⚡ NEURAL STATS ⚡                         ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  Code Quality:        ████████████░░░░░░░░ 85%              ║
-║  Problem Solving:     ████████████████░░░░ 95%              ║
-║  Collaboration:       ███████████████████░ 98%              ║
-║  Innovation:          ████████████████████ 100%             ║
-║  Coffee Dependency:   ████████████████████ ∞ %              ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  Status: 🟢 Ready to Ship                                    ║
-║  Mood: 😎 Let's Build Something Epic                        ║
-╚══════════════════════════════════════════════════════════════╝
-\`\`\`
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangamparmar&theme=radical" alt="Profile Summary"/>
+</div>
 
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangamparmar&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangamparmar&theme=radical" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sangamparmar&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sangamparmar&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 💭 WISDOM OF THE DAY 💭
 
-> *"The best code is not the one that's perfect, it's the one that solves problems and makes people happy."* — Sangam Parmar
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
 
 ## 🚀 FINAL TRANSMISSION 🚀
 
-<div align="center" style="
-  background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(255, 0, 110, 0.1));
-  border: 2px solid rgba(0, 217, 255, 0.3);
-  border-radius: 15px;
-  padding: 40px 20px;
-  margin: 40px 0;
-">
-  <p style="
-    font-size: 1.1rem;
-    color: #e2e8f0;
-    margin: 15px 0;
-    line-height: 1.8;
-  ">
-    <strong style="color: #00d9ff;">Always Learning</strong> • <strong style="color: #ff006e;">Problem Solving</strong> • <strong style="color: #00d9ff;">Building Future</strong>
-  </p>
-  <p style="
-    margin-top: 25px;
-    color: #94a3b8;
-    font-size: 0.9rem;
-  ">
-    Let's connect and build something amazing together! 🌟
-  </p>
-</div>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  <br/><b>Always Learning</b>
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
+  <br/><b>Problem Solving</b>
+</td>
+<td align="center" width="33%">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"/>
+  <br/><b>Building Future</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=150&section=footer&reversal=true"/>
 
 ---
 
-<div align="center" style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(0, 217, 255, 0.2);">
-  <p style="color: #64748b; font-size: 0.85rem;">
-    Made with 💙 by Sangam Parmar | Always Open to Collaborations
-  </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-💖%20and%20☕-FF6B6B?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Dreams%20%26%20Code-4ECDC4?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Fueled%20by-Passion%20%26%20Pizza-45B7D1?style=for-the-badge&labelColor=1a1a1a"/>
 </div>
 
-<!-- Adding animations CSS -->
-<style>
-  @keyframes gradientShift {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-
-  @keyframes gradientFlow {
-    0% { background-position: 0% center; }
-    100% { background-position: 200% center; }
-  }
-
-  @keyframes float {
-    0%, 100% { transform: translate(0, 0) rotate(0deg); }
-    33% { transform: translate(30px, -30px) rotate(120deg); }
-    66% { transform: translate(-20px, 20px) rotate(240deg); }
-  }
-
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.7; }
-  }
-
-  @keyframes shimmer {
-    0% { background-position: -1000px 0; }
-    100% { background-position: 1000px 0; }
-  }
-</style>
+</div>
